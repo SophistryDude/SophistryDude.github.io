@@ -1,19 +1,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: SophistryDude
 
 # Your name to show in the footer
-author: Some Person
+author: Nicholas Major
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Github account: "https://www.github.com/SophistryDude
+    - Most Recent Medium Blog: "https://medium.com/@nickmajor/why-mbti-is-wrong-a-dive-into-cognitive-function-theory-eb3f60361663?sk=b8a9b4633d637c5d63310afb3a84b48d"
+  Author's home: "Affinity-Tutoring.com"
 
 # --- Logo --- #
 
@@ -71,7 +71,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "LambdaExample.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
